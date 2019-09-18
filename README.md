@@ -22,7 +22,7 @@ __It's Magisk install-able, don't install it by TWRP but with Magisk instead!__
 3. Select open and after installed then reboot your device.
 4. After rebooted your device, make sure your location settings is setup on mode **_Device only_**.
 5. Skirt outdoors, can be in the yard of your house or anywhere else with a line of sight to the sky and stay in that outdoor place.
-6. Download some Compass app on Google Play Store *(I recommend the **GPS Status**)* and then calibrate the compass. Open the GPS Status menu, click Manage A-GPS state, and click reset and download.
+6. Download some Compass app on Google Play Store *(I recommend the **GPS Status & Toolbox**)* and then calibrate the compass. Open the GPS Status menu, click Manage A-GPS state, and click reset and download.
 
 
 #### Option 2 - Download
