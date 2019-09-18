@@ -3,4 +3,4 @@ name=Brazilian Optimized GPS File Replacer
 version=v4 (Brazilian Version)
 versionCode=4
 author=ianhughes74, JonasCardoso, lazerl0rd and BahamutGm
-description=If you note live in Brazil, please don't install the module. This module replaces the default gps.conf file with a new one edited for and faster locking.
+description=If you not live in Brazil, please don't install the module. This module replaces the default gps.conf file with a new one edited for and faster locking.
