@@ -1,6 +1,6 @@
-id=optmizedgpsconf
-name=Global Optimized GPS File Replacer
-version=v4
-versionCode=4
-author=ianhughes74, JonasCardoso, and lazerl0rd
-description=This module replaces the default gps.conf file with a new one edited for and faster locking.
+id=optmizedbraziliangpsconf
+name=Brazilian Optimized GPS File Replacer
+version=v4.1 (Brazilian Version)
+versionCode=4.1
+author=ianhughes74, JonasCardoso, lazerl0rd and BahamutGm
+description=If you note live in Brazil, please don't install the module. This module replaces the default gps.conf file with a new one edited for and faster locking.
