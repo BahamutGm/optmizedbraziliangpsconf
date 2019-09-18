@@ -1,5 +1,5 @@
 # Brazilian Optimized GPS File Replacer
-If you note live in Brazil, please don't install the module.
+If you not live in Brazil, please don't install the module.
 This module provides an improved GPS functionality with a better and faster accuracy location reference.
 
 ## How it works?
