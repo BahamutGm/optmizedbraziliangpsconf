@@ -1,4 +1,5 @@
-# Global Optimized GPS File Replacer
+# Brazilian Optimized GPS File Replacer
+If you note live in Brazil, please don't install the module.
 This module provides an improved GPS functionality with a better and faster accuracy location reference.
 
 ## How it works?
@@ -10,14 +11,14 @@ This module provides an improved GPS functionality with a better and faster accu
 - A device with Qualcomm Snapdragon chipset based.
 - Rooted with Magisk and Magisk Manager indeed installed.
 
-*__Note:__ Tested on the Nexus 5X running AOSiP Pie and the XZ Premium running ZfSODP p-mr1.*
+*__Note:__ Tested on the Redmi Note 7 Pro running MIUI by xiaomi.eu 10.3.11 Stable (PFHCNXM) Android Pie*
 
 ## Instructions
 __It's Magisk install-able, don't install it by TWRP but with Magisk instead!__
 
 #### Option 1 - Manually
 1. Go to Magisk Manager **_Modules_** section.
-2. Click on **_+_** yellow button and search/find for this **_"optimizedgpsconf.zip"_** file and long press on it.
+2. Click on **_+_** yellow button and search/find for this **_"optimizedbraziliangpsconf.zip"_** file and long press on it.
 3. Select open and after installed then reboot your device.
 4. After rebooted your device, make sure your location settings is setup on mode **_Device only_**.
 5. Skirt outdoors, can be in the yard of your house or anywhere else with a line of sight to the sky and stay in that outdoor place.
@@ -26,7 +27,7 @@ __It's Magisk install-able, don't install it by TWRP but with Magisk instead!__
 
 #### Option 2 - Download
 1. Go to Magisk Manager **_Downloads_** section.
-2. Search/Find **_"Global Optimized GPS File Replacer"_**.
+2. Search/Find **_"Brazilian Optimized GPS File Replacer"_**.
 3. Tap on the download button and then on **_INSTALL_**.
 4. Wait a moment to finish downloading and installing.
 5. When finished tap on **_REBOOT_**.
